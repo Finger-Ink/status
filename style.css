@@ -103,8 +103,6 @@ img {
 	text-decoration: none;
 }
 
-
-
 .panel{
     color: white;
     padding: 20px;
@@ -206,4 +204,9 @@ h4{
 .incident .date{
     font-size: 2rem;
     font-weight: bold;
+}
+
+span.props {
+	font-size: 0.4rem;
+	float: right;
 }
